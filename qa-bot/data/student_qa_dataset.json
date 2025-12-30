@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "context": "Time management is crucial for academic success. Students should create a daily schedule, prioritize tasks using the Eisenhower matrix, break large assignments into smaller chunks, use techniques like Pomodoro which involves 25 minutes focused work followed by 5 minutes break, avoid multitasking, set specific study hours, and review their schedule weekly. Consistent sleep schedules and regular breaks improve focus and retention.",
+      "qas": [
+        {"question": "How can I manage my time better as a student?", "answer": "create a daily schedule, prioritize tasks using the Eisenhower matrix, break large assignments into smaller chunks"},
+        {"question": "What is the Pomodoro technique?", "answer": "25 minutes focused work followed by 5 minutes break"},
+        {"question": "How can I improve my focus while studying?", "answer": "Consistent sleep schedules and regular breaks improve focus and retention"},
+        {"question": "Should I multitask while studying?", "answer": "avoid multitasking"},
+        {"question": "What is the Eisenhower matrix?", "answer": "prioritize tasks using the Eisenhower matrix"},
+        {"question": "How often should I review my schedule?", "answer": "review their schedule weekly"}
+      ]
+    },
+    {
+      "context": "Exam preparation requires strategic planning. Start studying at least 2 to 3 weeks before the exam. Review class notes daily, create summary sheets, use active recall by testing yourself, practice with past papers, form study groups for discussion, teach concepts to others, get adequate sleep before exams which means 7 to 8 hours, eat healthy brain foods like nuts and fruits, and stay hydrated. Avoid cramming the night before as it is ineffective.",
+      "qas": [
+        {"question": "How should I prepare for exams?", "answer": "Start studying at least 2 to 3 weeks before the exam"},
+        {"question": "When should I start studying for exams?", "answer": "at least 2 to 3 weeks before the exam"},
+        {"question": "How much sleep should I get before an exam?", "answer": "7 to 8 hours"},
+        {"question": "What foods are good for studying?", "answer": "nuts and fruits"},
+        {"question": "Is cramming effective for exams?", "answer": "Avoid cramming the night before as it is ineffective"},
+        {"question": "What is active recall?", "answer": "use active recall by testing yourself"},
+        {"question": "How can I remember what I study?", "answer": "use active recall by testing yourself, practice with past papers, form study groups for discussion, teach concepts to others"}
+      ]
+    },
+    {
+      "context": "Dealing with exam anxiety is common among students. Techniques to manage anxiety include deep breathing exercises, progressive muscle relaxation, positive self-talk, adequate preparation, arriving early to the exam venue, reading instructions carefully, starting with easier questions first, managing time during the exam, and accepting that some anxiety is normal. If anxiety is severe, consider speaking with a counselor.",
+      "qas": [
+        {"question": "How can I deal with exam anxiety?", "answer": "deep breathing exercises, progressive muscle relaxation, positive self-talk, adequate preparation"},
+        {"question": "What should I do if I feel anxious during an exam?", "answer": "starting with easier questions first, managing time during the exam, and accepting that some anxiety is normal"},
+        {"question": "When should I seek help for exam anxiety?", "answer": "If anxiety is severe, consider speaking with a counselor"},
+        {"question": "Is it normal to feel anxious before exams?", "answer": "some anxiety is normal"},
+        {"question": "What relaxation techniques help with exam stress?", "answer": "deep breathing exercises, progressive muscle relaxation"}
+      ]
+    },
+    {
+      "context": "Choosing the right career path involves self-assessment, research, and planning. Students should identify their interests using tools like Holland Code assessment, evaluate their skills and strengths, research various career options, talk to professionals in fields of interest, consider job market trends, pursue internships for hands-on experience, align career choice with personal values, and remain open to changing paths as they learn more about themselves.",
+      "qas": [
+        {"question": "How do I choose the right career?", "answer": "identify their interests using tools like Holland Code assessment, evaluate their skills and strengths, research various career options"},
+        {"question": "What tools can help me find my career interests?", "answer": "Holland Code assessment"},
+        {"question": "How can I explore career options?", "answer": "pursue internships for hands-on experience"},
+        {"question": "Should I talk to people about careers?", "answer": "talk to professionals in fields of interest"},
+        {"question": "What factors should I consider when choosing a career?", "answer": "consider job market trends, pursue internships for hands-on experience, align career choice with personal values"}
+      ]
+    },
+    {
+      "context": "Effective note-taking improves learning and retention. Popular methods include the Cornell method which involves dividing page into notes, cues, and summary sections, mind mapping for visual learners, outlining for structured content, the charting method for comparing information, and the sentence method for fast-paced lectures. Review notes within 24 hours, highlight key points, and rewrite notes in your own words for better understanding.",
+      "qas": [
+        {"question": "What are good note-taking methods?", "answer": "Cornell method which involves dividing page into notes, cues, and summary sections, mind mapping for visual learners, outlining for structured content"},
+        {"question": "How does the Cornell method work?", "answer": "dividing page into notes, cues, and summary sections"},
+        {"question": "When should I review my notes?", "answer": "Review notes within 24 hours"},
+        {"question": "Which note-taking method is best for visual learners?", "answer": "mind mapping for visual learners"},
+        {"question": "How can I understand my notes better?", "answer": "rewrite notes in your own words for better understanding"}
+      ]
+    },
+    {
+      "context": "Maintaining mental health while studying is essential. Students should maintain work-life balance, exercise regularly for at least 30 minutes daily, stay connected with friends and family, pursue hobbies outside academics, practice mindfulness or meditation, seek help when feeling overwhelmed, limit social media usage, set realistic goals, celebrate small achievements, and remember that grades don't define self-worth.",
+      "qas": [
+        {"question": "How can I maintain mental health while studying?", "answer": "maintain work-life balance, exercise regularly for at least 30 minutes daily, stay connected with friends and family"},
+        {"question": "How much exercise should students get?", "answer": "at least 30 minutes daily"},
+        {"question": "What should I do if I feel overwhelmed with studies?", "answer": "seek help when feeling overwhelmed"},
+        {"question": "How can I reduce stress while studying?", "answer": "practice mindfulness or meditation"},
+        {"question": "Should I use social media while studying?", "answer": "limit social media usage"},
+        {"question": "Do grades define my worth?", "answer": "grades don't define self-worth"}
+      ]
+    },
+    {
+      "context": "Building good study habits takes time and consistency. Study at the same time and place daily to build routine, eliminate distractions by turning off phone notifications, use the two-minute rule which means if a task takes less than two minutes do it now, reward yourself after completing study goals, track your progress in a journal, find an accountability partner, and create a dedicated study space with good lighting and minimal clutter.",
+      "qas": [
+        {"question": "How can I build better study habits?", "answer": "Study at the same time and place daily to build routine, eliminate distractions by turning off phone notifications"},
+        {"question": "What is the two-minute rule?", "answer": "if a task takes less than two minutes do it now"},
+        {"question": "How should I set up my study space?", "answer": "create a dedicated study space with good lighting and minimal clutter"},
+        {"question": "How can I eliminate distractions while studying?", "answer": "eliminate distractions by turning off phone notifications"},
+        {"question": "How can I stay consistent with studying?", "answer": "Study at the same time and place daily to build routine"}
+      ]
+    },
+    {
+      "context": "Handling academic pressure requires a balanced approach. Break large goals into smaller milestones, communicate with teachers about difficulties, don't compare yourself to others, focus on personal improvement, take breaks when needed, learn to say no to excessive commitments, maintain perspective that one exam or grade doesn't determine your future, and develop a growth mindset that views challenges as opportunities to learn.",
+      "qas": [
+        {"question": "How do I handle academic pressure?", "answer": "Break large goals into smaller milestones, communicate with teachers about difficulties"},
+        {"question": "Should I compare my grades with other students?", "answer": "don't compare yourself to others, focus on personal improvement"},
+        {"question": "What is a growth mindset?", "answer": "growth mindset that views challenges as opportunities to learn"},
+        {"question": "What should I do when I feel pressured?", "answer": "take breaks when needed, learn to say no to excessive commitments"},
+        {"question": "Does one bad grade ruin my future?", "answer": "one exam or grade doesn't determine your future"}
+      ]
+    },
+    {
+      "context": "Improving concentration while studying requires environmental and mental preparation. Choose a quiet study location, use noise-canceling headphones or ambient sounds, keep your phone in another room, use website blockers for distracting sites, take regular short breaks every 45 to 50 minutes, stay hydrated, maintain proper posture, ensure good lighting, and practice single-tasking instead of multitasking.",
+      "qas": [
+        {"question": "How can I concentrate better while studying?", "answer": "Choose a quiet study location, use noise-canceling headphones or ambient sounds, keep your phone in another room"},
+        {"question": "How often should I take breaks while studying?", "answer": "take regular short breaks every 45 to 50 minutes"},
+        {"question": "Should I multitask while studying?", "answer": "practice single-tasking instead of multitasking"},
+        {"question": "How can I avoid phone distractions?", "answer": "keep your phone in another room"},
+        {"question": "What helps with focus while studying?", "answer": "stay hydrated, maintain proper posture, ensure good lighting"}
+      ]
+    },
+    {
+      "context": "Memory techniques help retain information longer. Use spaced repetition to review material at increasing intervals, create mnemonics and acronyms, visualize concepts through mental images, associate new information with what you already know, teach others to reinforce your understanding, get adequate sleep as memory consolidation happens during sleep, use flashcards for quick revision, and practice active recall instead of passive re-reading.",
+      "qas": [
+        {"question": "How can I improve my memory for studies?", "answer": "Use spaced repetition to review material at increasing intervals, create mnemonics and acronyms"},
+        {"question": "What is spaced repetition?", "answer": "review material at increasing intervals"},
+        {"question": "Does sleep affect memory?", "answer": "memory consolidation happens during sleep"},
+        {"question": "What is active recall?", "answer": "practice active recall instead of passive re-reading"},
+        {"question": "How can I remember things better?", "answer": "create mnemonics and acronyms, visualize concepts through mental images"},
+        {"question": "Are flashcards useful for studying?", "answer": "use flashcards for quick revision"}
+      ]
+    },
+    {
+      "context": "Finding motivation to study when you don't feel like it is challenging. Start with just 5 minutes and build momentum, remember your long-term goals and why you're studying, break tasks into smaller achievable chunks, change your study environment, study with motivated friends, reward yourself after completing tasks, eliminate negative self-talk, visualize success, maintain physical health through exercise and nutrition, and establish a morning routine.",
+      "qas": [
+        {"question": "How can I motivate myself to study?", "answer": "Start with just 5 minutes and build momentum, remember your long-term goals"},
+        {"question": "What should I do when I don't feel like studying?", "answer": "Start with just 5 minutes and build momentum"},
+        {"question": "How can I stay motivated for long-term goals?", "answer": "remember your long-term goals and why you're studying, visualize success"},
+        {"question": "How can rewards help with studying?", "answer": "reward yourself after completing tasks"},
+        {"question": "Should I study with friends?", "answer": "study with motivated friends"}
+      ]
+    },
+    {
+      "context": "Dealing with failure and setbacks is part of the learning journey. Accept that failure is temporary not permanent, analyze what went wrong without self-blame, learn lessons from the experience, talk to someone you trust about your feelings, remember past successes, set new realistic goals, take action to improve, maintain self-compassion, understand that many successful people failed multiple times before succeeding, and view setbacks as redirections.",
+      "qas": [
+        {"question": "How do I deal with academic failure?", "answer": "Accept that failure is temporary not permanent, analyze what went wrong without self-blame"},
+        {"question": "What should I do after failing an exam?", "answer": "analyze what went wrong without self-blame, learn lessons from the experience, set new realistic goals"},
+        {"question": "Is it normal to fail sometimes?", "answer": "many successful people failed multiple times before succeeding"},
+        {"question": "How can I recover from a setback?", "answer": "talk to someone you trust about your feelings, remember past successes, set new realistic goals"},
+        {"question": "Is failure permanent?", "answer": "failure is temporary not permanent"}
+      ]
+    },
+    {
+      "context": "Selecting the right college or university involves multiple factors. Consider the program's reputation and accreditation, faculty qualifications, campus facilities, location preferences, tuition fees and scholarship opportunities, placement records, extracurricular opportunities, student support services, alumni network strength, and campus culture. Visit campuses if possible and talk to current students.",
+      "qas": [
+        {"question": "How do I choose the right college?", "answer": "Consider the program's reputation and accreditation, faculty qualifications, campus facilities, location preferences, tuition fees and scholarship opportunities"},
+        {"question": "What should I look for in a university?", "answer": "placement records, extracurricular opportunities, student support services, alumni network strength"},
+        {"question": "How can I learn more about a college before joining?", "answer": "Visit campuses if possible and talk to current students"},
+        {"question": "Are scholarships important when choosing a college?", "answer": "tuition fees and scholarship opportunities"}
+      ]
+    },
+    {
+      "context": "Writing effective assignments requires planning and structure. Start by understanding the assignment requirements, create an outline before writing, conduct thorough research using credible sources, write a strong introduction with a clear thesis, support arguments with evidence, maintain logical flow between paragraphs, cite all sources properly to avoid plagiarism, proofread multiple times, and submit before the deadline.",
+      "qas": [
+        {"question": "How can I write better assignments?", "answer": "Start by understanding the assignment requirements, create an outline before writing, conduct thorough research using credible sources"},
+        {"question": "How do I avoid plagiarism?", "answer": "cite all sources properly to avoid plagiarism"},
+        {"question": "What makes a good introduction?", "answer": "write a strong introduction with a clear thesis"},
+        {"question": "What should I do before submitting an assignment?", "answer": "proofread multiple times, and submit before the deadline"},
+        {"question": "How should I structure my assignment?", "answer": "create an outline before writing"}
+      ]
+    },
+    {
+      "context": "Preparing for job interviews while studying helps career readiness. Research common interview questions in your field, practice answering using the STAR method which stands for Situation Task Action Result, prepare questions to ask interviewers, dress professionally and arrive early, maintain eye contact and confident body language, highlight relevant coursework and projects, be honest about your experience level, send thank-you notes after interviews, and learn from rejections.",
+      "qas": [
+        {"question": "How should I prepare for job interviews?", "answer": "Research common interview questions in your field, practice answering using the STAR method"},
+        {"question": "What is the STAR method?", "answer": "Situation Task Action Result"},
+        {"question": "What should I do after an interview?", "answer": "send thank-you notes after interviews, and learn from rejections"},
+        {"question": "How should I dress for an interview?", "answer": "dress professionally and arrive early"},
+        {"question": "What body language is good for interviews?", "answer": "maintain eye contact and confident body language"}
+      ]
+    },
+    {
+      "context": "Balancing studies with extracurricular activities enhances overall development. Prioritize academics but allocate specific time for activities, choose activities that align with your interests and career goals, learn to manage energy not just time, use extracurriculars as stress relievers, develop soft skills through group activities, limit the number of commitments to avoid burnout, and maintain a calendar to track all commitments.",
+      "qas": [
+        {"question": "How can I balance studies with extracurricular activities?", "answer": "Prioritize academics but allocate specific time for activities"},
+        {"question": "Are extracurricular activities important?", "answer": "extracurricular activities enhances overall development"},
+        {"question": "How many activities should I join?", "answer": "limit the number of commitments to avoid burnout"},
+        {"question": "How can extracurriculars help my career?", "answer": "develop soft skills through group activities"}
+      ]
+    },
+    {
+      "context": "Online learning requires different strategies than traditional classroom learning. Create a dedicated study space, establish a routine similar to attending physical classes, actively participate in online discussions, take notes during video lectures, minimize digital distractions by closing unnecessary tabs, communicate regularly with instructors and peers, break screen time with offline activities, test your internet connection before important sessions, and hold yourself accountable for self-paced content.",
+      "qas": [
+        {"question": "How can I learn effectively online?", "answer": "Create a dedicated study space, establish a routine similar to attending physical classes"},
+        {"question": "How do I avoid distractions during online classes?", "answer": "minimize digital distractions by closing unnecessary tabs"},
+        {"question": "Should I take notes during online lectures?", "answer": "take notes during video lectures"},
+        {"question": "How can I stay engaged in online learning?", "answer": "actively participate in online discussions, communicate regularly with instructors and peers"}
+      ]
+    },
+    {
+      "context": "Reading speed and comprehension can be improved with practice. Preview text before detailed reading by skimming headings and summaries, use a pointer to guide your eyes, minimize subvocalization which means reading aloud in your head, expand peripheral vision to read word groups, take notes while reading, summarize each section in your own words, and re-read difficult sections. Speed comes with practice but don't sacrifice understanding for speed.",
+      "qas": [
+        {"question": "How can I read faster?", "answer": "use a pointer to guide your eyes, minimize subvocalization which means reading aloud in your head"},
+        {"question": "How can I understand what I read better?", "answer": "take notes while reading, summarize each section in your own words, and re-read difficult sections"},
+        {"question": "What is subvocalization?", "answer": "reading aloud in your head"},
+        {"question": "Should I prioritize speed or understanding?", "answer": "don't sacrifice understanding for speed"}
+      ]
+    },
+    {
+      "context": "Critical thinking skills are essential for academic success. Question assumptions and evidence, analyze arguments from multiple perspectives, distinguish between facts and opinions, evaluate sources for credibility, look for logical fallacies in reasoning, practice problem-solving regularly, engage in debates and discussions, read widely across different subjects, reflect on your own thinking process, and be open to changing your views based on new evidence.",
+      "qas": [
+        {"question": "How can I develop critical thinking skills?", "answer": "Question assumptions and evidence, analyze arguments from multiple perspectives, distinguish between facts and opinions"},
+        {"question": "What is critical thinking?", "answer": "Question assumptions and evidence, analyze arguments from multiple perspectives"},
+        {"question": "How can I think more analytically?", "answer": "look for logical fallacies in reasoning, practice problem-solving regularly"},
+        {"question": "How can I evaluate if a source is credible?", "answer": "evaluate sources for credibility"}
+      ]
+    },
+    {
+      "context": "Group study can be highly effective when done correctly. Choose group members who are committed and focused, set clear goals for each session, assign roles and topics to different members, stay on track and avoid social distractions, quiz each other to reinforce learning, discuss difficult concepts together, meet regularly at scheduled times, keep group size small with 3 to 5 members, and use collaborative tools for sharing notes.",
+      "qas": [
+        {"question": "How can I study effectively in a group?", "answer": "set clear goals for each session, assign roles and topics to different members, stay on track and avoid social distractions"},
+        {"question": "What is the ideal group size for studying?", "answer": "keep group size small with 3 to 5 members"},
+        {"question": "How can group study help learning?", "answer": "quiz each other to reinforce learning, discuss difficult concepts together"},
+        {"question": "Who should I choose for my study group?", "answer": "Choose group members who are committed and focused"}
+      ]
+    },
+    {
+      "context": "Procrastination is a common challenge for students. Break tasks into smaller steps to make them less overwhelming, set specific deadlines for each step, use the 5-minute rule to just get started, identify your peak productivity hours and study then, remove temptations and distractions, tell someone about your goals for accountability, forgive yourself for past procrastination and move forward, and understand the root cause of your procrastination which could be fear of failure or perfectionism.",
+      "qas": [
+        {"question": "How can I stop procrastinating?", "answer": "Break tasks into smaller steps to make them less overwhelming, set specific deadlines for each step"},
+        {"question": "What is the 5-minute rule?", "answer": "use the 5-minute rule to just get started"},
+        {"question": "Why do students procrastinate?", "answer": "root cause of your procrastination which could be fear of failure or perfectionism"},
+        {"question": "When should I study for best results?", "answer": "identify your peak productivity hours and study then"},
+        {"question": "How can I hold myself accountable?", "answer": "tell someone about your goals for accountability"}
+      ]
+    }
+  ]
+}

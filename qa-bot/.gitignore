@@ -1,5 +1,7 @@
 # Virtual environment
 venv/
+env/
+.venv/
 
 # Python cache
 __pycache__/
@@ -15,11 +17,16 @@ __pycache__/
 *.arrow
 *.lock
 
-# Model checkpoints (can be large)
+# Training outputs
 results/
+logs/
 checkpoints/
+
+# Model files (large)
+student_qa_model/
 *.bin
 *.safetensors
+*.h5
 
 # Jupyter notebooks
 .ipynb_checkpoints/
@@ -34,3 +41,4 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+*.swp
